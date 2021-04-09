@@ -1,0 +1,27 @@
+{
+  "name": "mybolg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjiaxiong/xiongjiaman.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjiaxiong/xiongjiaman.github.io/issues"
+  },
+  "homepage": "https://github.com/manjiaxiong/xiongjiaman.github.io#readme"
+}
